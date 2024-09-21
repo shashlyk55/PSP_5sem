@@ -1,0 +1,3 @@
+﻿  ClientT.cpp
+C:\Vanya\Study\5_semestr\PSP\lab02\ClientT\ClientT\ClientT.cpp(51,8): warning C4101: ibuf: неиспользованная локальная переменная
+  ClientT.vcxproj -> C:\Vanya\Study\5_semestr\PSP\lab02\ClientT\Debug\ClientT.exe
