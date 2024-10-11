@@ -1,0 +1,5 @@
+﻿  ClientS.cpp
+D:\BSTU\5_semestr\PSP\lab05\ClientS\ClientS\ClientS.cpp(106,44): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\BSTU\5_semestr\PSP\lab05\ClientS\ClientS\ClientS.cpp(112,6): warning C4101: lbfrom: неиспользованная локальная переменная
+D:\BSTU\5_semestr\PSP\lab05\ClientS\ClientS\ClientS.cpp(238,45): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  ClientS.vcxproj -> D:\BSTU\5_semestr\PSP\lab05\ClientS\x64\Debug\ClientS.exe

@@ -1,0 +1,4 @@
+﻿  ServerS.cpp
+D:\BSTU\5_semestr\PSP\lab05\ServerS\ServerS\ServerS.cpp(179,36): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\BSTU\5_semestr\PSP\lab05\ServerS\ServerS\ServerS.cpp(225,44): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  ServerS.vcxproj -> D:\BSTU\5_semestr\PSP\lab05\ServerS\x64\Debug\ServerS.exe
