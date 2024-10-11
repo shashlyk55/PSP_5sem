@@ -83,6 +83,7 @@ bool GetServer(
 	all.sin_family = AF_INET;
 	all.sin_port = htons(port);
 	all.sin_addr.s_addr = inet_addr("127.255.255.255");
+	//all.sin_addr.s_addr = inet_addr("192.168.255.255");
 	//all.sin_addr.s_addr = INADDR_BROADCAST;
 
 	int lbto = 0;
@@ -99,7 +100,6 @@ bool GetServer(
 	char* clientIp;
 	int clientPort;
 	SOCKADDR_IN* client;
-
 
 	while (true)
 	{
@@ -119,7 +119,7 @@ bool GetServer(
 				throw SetErrorMsgText("recvfrom: ", WSAGetLastError());
 			}
 		}
-
+		memset(&client, 0, sizeof(client));
 		client = (SOCKADDR_IN*)from;
 		clientIp = inet_ntoa(client->sin_addr);
 		clientPort = ntohs(client->sin_port);

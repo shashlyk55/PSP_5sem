@@ -164,7 +164,7 @@ bool PutAnswerToClient(
 		throw SetErrorMsgText("socket: ", WSAGetLastError());
 	}
 
-	if (sendto(sS, "name", strlen("name") + 1, NULL, (sockaddr*)to, *lto) == SOCKET_ERROR) {
+	if (sendto(sS, "ServerB", strlen("ServerB") + 1, NULL, (sockaddr*)to, *lto) == SOCKET_ERROR) {
 		throw SetErrorMsgText("sendto: ", WSAGetLastError());
 	}
 

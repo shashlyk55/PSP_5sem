@@ -93,8 +93,9 @@ bool GetRequestFromClient(
 	SOCKADDR_IN serv;
 	serv.sin_family = AF_INET;
 	serv.sin_port = htons(port);
-	serv.sin_addr.s_addr = inet_addr("127.0.0.2");
-	//serv.sin_addr.s_addr = INADDR_ANY;
+	//serv.sin_addr.s_addr = inet_addr("169.254.255.248");
+	//serv.sin_addr.s_addr = inet_addr("127.0.0.2");
+	serv.sin_addr.s_addr = INADDR_ANY;
 
 	if (bind(sS, (LPSOCKADDR)&serv, sizeof(serv)) == SOCKET_ERROR) {
 		throw SetErrorMsgText("bind: ", WSAGetLastError());

@@ -1,4 +1,4 @@
 ﻿  ServerB.cpp
-D:\BSTU\5_semestr\PSP\lab04\ServerB\ServerB\ServerB.cpp(167,36): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
-D:\BSTU\5_semestr\PSP\lab04\ServerB\ServerB\ServerB.cpp(213,44): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\BSTU\5_semestr\PSP\lab04\ServerB\ServerB\ServerB.cpp(168,36): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\BSTU\5_semestr\PSP\lab04\ServerB\ServerB\ServerB.cpp(214,44): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
   ServerB.vcxproj -> D:\BSTU\5_semestr\PSP\lab04\ServerB\x64\Debug\ServerB.exe
