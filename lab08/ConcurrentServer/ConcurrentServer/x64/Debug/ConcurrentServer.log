@@ -1,0 +1,28 @@
+﻿  ConcurrentServer.cpp
+D:\BSTU\5_semestr\PSP\lab08\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(13,9): warning C4005: INADDR_ANY: изменение макроопределения
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ws2def.h(600,9):
+      см. предыдущее определение "INADDR_ANY"
+  
+D:\BSTU\5_semestr\PSP\lab08\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(15,9): warning C4005: INADDR_BROADCAST: изменение макроопределения
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ws2def.h(602,9):
+      см. предыдущее определение "INADDR_BROADCAST"
+  
+D:\BSTU\5_semestr\PSP\lab08\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(184,20): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "unsigned __int64"
+      D:\BSTU\5_semestr\PSP\lab08\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(184,20):
+      рекомендуется использовать "%zd" в строке форматирования
+  
+D:\BSTU\5_semestr\PSP\lab08\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(196,20): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "unsigned __int64"
+      D:\BSTU\5_semestr\PSP\lab08\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(196,20):
+      рекомендуется использовать "%zd" в строке форматирования
+  
+D:\BSTU\5_semestr\PSP\lab08\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(258,51): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\BSTU\5_semestr\PSP\lab08\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(293,83): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\BSTU\5_semestr\PSP\lab08\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(301,85): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\BSTU\5_semestr\PSP\lab08\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(353,45): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\BSTU\5_semestr\PSP\lab08\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(554,1): warning C4477: "sprintf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "4" имеет тип "unsigned __int64"
+      D:\BSTU\5_semestr\PSP\lab08\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(554,1):
+      рекомендуется использовать "%zd" в строке форматирования
+  
+D:\BSTU\5_semestr\PSP\lab08\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(562,57): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+D:\BSTU\5_semestr\PSP\lab08\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(387,1): warning C4715: set_param: значение возвращается не при всех путях выполнения
+  ConcurrentServer.vcxproj -> D:\BSTU\5_semestr\PSP\lab08\ConcurrentServer\x64\Debug\ConcurrentServer.exe

@@ -1,0 +1,14 @@
+﻿  ClientEcho.cpp
+D:\BSTU\5_semestr\PSP\lab09\Clients\ClientEcho\ClientEcho.cpp(11,9): warning C4005: INADDR_ANY: изменение макроопределения
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ws2def.h(600,9):
+      см. предыдущее определение "INADDR_ANY"
+  
+D:\BSTU\5_semestr\PSP\lab09\Clients\ClientEcho\ClientEcho.cpp(13,9): warning C4005: INADDR_BROADCAST: изменение макроопределения
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ws2def.h(602,9):
+      см. предыдущее определение "INADDR_BROADCAST"
+  
+D:\BSTU\5_semestr\PSP\lab09\Clients\ClientEcho\ClientEcho.cpp(130,48): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\BSTU\5_semestr\PSP\lab09\Clients\ClientEcho\ClientEcho.cpp(217,63): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\BSTU\5_semestr\PSP\lab09\Clients\ClientEcho\ClientEcho.cpp(231,67): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\BSTU\5_semestr\PSP\lab09\Clients\ClientEcho\ClientEcho.cpp(237,55): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  ClientEcho.vcxproj -> D:\BSTU\5_semestr\PSP\lab09\Clients\x64\Debug\ClientEcho.exe

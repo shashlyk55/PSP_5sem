@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  dllmain.cpp
+D:\BSTU\5_semestr\PSP\lab08\ConcurrentServer\ServiceLibrary\PrototypeService.h(169,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "/dllmain.cpp")
+  
+  Errors.cpp
+  Создание кода...
+     Создается библиотека D:\BSTU\5_semestr\PSP\lab08\ConcurrentServer\x64\Debug\ServiceLibrary.lib и объект D:\BSTU\5_semestr\PSP\lab08\ConcurrentServer\x64\Debug\ServiceLibrary.exp
+  ServiceLibrary.vcxproj -> D:\BSTU\5_semestr\PSP\lab08\ConcurrentServer\x64\Debug\ServiceLibrary.dll

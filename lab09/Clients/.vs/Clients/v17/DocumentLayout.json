@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BSTU\\5_semestr\\PSP\\lab09\\Clients\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C714297E-D504-4F01-93D8-CF4CAA15A279}|ClientEcho\\ClientEcho.vcxproj|D:\\BSTU\\5_semestr\\PSP\\lab09\\Clients\\ClientEcho\\ClientEcho.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C714297E-D504-4F01-93D8-CF4CAA15A279}|ClientEcho\\ClientEcho.vcxproj|solutionrelative:ClientEcho\\ClientEcho.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8EEA6C-6BB1-40C8-84EE-BB480C194BFC}|ClientRand\\ClientRand.vcxproj|D:\\BSTU\\5_semestr\\PSP\\lab09\\Clients\\ClientRand\\ClientRand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1E8EEA6C-6BB1-40C8-84EE-BB480C194BFC}|ClientRand\\ClientRand.vcxproj|solutionrelative:ClientRand\\ClientRand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{967BD649-E928-49F7-AFF4-133C56C0DD9A}|ClientTime\\ClientTime.vcxproj|D:\\BSTU\\5_semestr\\PSP\\lab09\\Clients\\ClientTime\\ClientTime.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{967BD649-E928-49F7-AFF4-133C56C0DD9A}|ClientTime\\ClientTime.vcxproj|solutionrelative:ClientTime\\ClientTime.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientTime.cpp",
+              "DocumentMoniker": "D:\\BSTU\\5_semestr\\PSP\\lab09\\Clients\\ClientTime\\ClientTime.cpp",
+              "RelativeDocumentMoniker": "ClientTime\\ClientTime.cpp",
+              "ToolTip": "D:\\BSTU\\5_semestr\\PSP\\lab09\\Clients\\ClientTime\\ClientTime.cpp",
+              "RelativeToolTip": "ClientTime\\ClientTime.cpp",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAcwHsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-28T16:55:42.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientRand.cpp",
+              "DocumentMoniker": "D:\\BSTU\\5_semestr\\PSP\\lab09\\Clients\\ClientRand\\ClientRand.cpp",
+              "RelativeDocumentMoniker": "ClientRand\\ClientRand.cpp",
+              "ToolTip": "D:\\BSTU\\5_semestr\\PSP\\lab09\\Clients\\ClientRand\\ClientRand.cpp",
+              "RelativeToolTip": "ClientRand\\ClientRand.cpp",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAcwJgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-28T16:55:30.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientEcho.cpp",
+              "DocumentMoniker": "D:\\BSTU\\5_semestr\\PSP\\lab09\\Clients\\ClientEcho\\ClientEcho.cpp",
+              "RelativeDocumentMoniker": "ClientEcho\\ClientEcho.cpp",
+              "ToolTip": "D:\\BSTU\\5_semestr\\PSP\\lab09\\Clients\\ClientEcho\\ClientEcho.cpp",
+              "RelativeToolTip": "ClientEcho\\ClientEcho.cpp",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAqwHgAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-28T16:55:16.79Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+﻿  ClientB.cpp
+D:\BSTU\5_semestr\PSP\lab09\ClientB\ClientB\ClientB.cpp(94,44): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\BSTU\5_semestr\PSP\lab09\ClientB\ClientB\ClientB.cpp(101,6): warning C4101: lbfrom: неиспользованная локальная переменная
+D:\BSTU\5_semestr\PSP\lab09\ClientB\ClientB\ClientB.cpp(104,8): warning C4101: clientIp: неиспользованная локальная переменная
+D:\BSTU\5_semestr\PSP\lab09\ClientB\ClientB\ClientB.cpp(105,6): warning C4101: clientPort: неиспользованная локальная переменная
+D:\BSTU\5_semestr\PSP\lab09\ClientB\ClientB\ClientB.cpp(106,15): warning C4101: client: неиспользованная локальная переменная
+  ClientB.vcxproj -> D:\BSTU\5_semestr\PSP\lab09\ClientB\x64\Debug\ClientB.exe

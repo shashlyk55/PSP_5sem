@@ -1,0 +1,4 @@
+﻿  RConsole.cpp
+D:\BSTU\5_semestr\PSP\lab10\RConsole\RConsole\RConsole.cpp(75,59): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\BSTU\5_semestr\PSP\lab10\RConsole\RConsole\RConsole.cpp(81,58): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  RConsole.vcxproj -> D:\BSTU\5_semestr\PSP\lab10\RConsole\x64\Debug\RConsole.exe

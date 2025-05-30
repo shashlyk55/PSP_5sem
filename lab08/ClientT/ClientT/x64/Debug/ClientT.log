@@ -1,0 +1,5 @@
+﻿  ClientT.cpp
+D:\BSTU\5_semestr\PSP\lab08\ClientT\ClientT\ClientT.cpp(63,44): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Error.cpp
+  Создание кода...
+  ClientT.vcxproj -> D:\BSTU\5_semestr\PSP\lab08\ClientT\x64\Debug\ClientT.exe
